@@ -1,3 +1,21 @@
+# Text Utils
+
+About the Project
+
+A very handy online text tool developed using React where you can change between lower case, upper case letters, convert to mix case and transform your text.
+
+# Softwares Used
+
+VSCode (Frontend)
+
+# Technologies Used
+
+React JS
+
+# Video of Complete Project
+
+https://www.screencast.com/users/KanishkaLamba/folders/Capture/media/7cbecdd1-e894-412f-b5d0-0b4967687a15
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
